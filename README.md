@@ -3,6 +3,10 @@
 Loads JSON data from companion files and stores it in `file.data` via
 [gulp-data](https://github.com/colynb/gulp-data).
 
+## Install
+
+`npm install gulp-data-json --save-dev`
+
 ## Example
 
 ```javascript
